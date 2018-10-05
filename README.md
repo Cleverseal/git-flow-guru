@@ -1,2 +1,2 @@
 Git flow rules!
-..and mercurial is worse than Git.
+..and mercurial&subversion is worse than Git.
