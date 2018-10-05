@@ -1,1 +1,1 @@
-Guit rules!
+Git flow rules!
